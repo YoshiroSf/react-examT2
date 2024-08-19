@@ -1,10 +1,10 @@
 import { Fragment } from "react"
 
-function header({imagen, nombre}){
+function header({imagen}){
     return(
         <>
-        <div className="logo">
-            <img src={imagen} alt={nombre} />
+        <div className="Logo">
+            <img src={imagen} alt="logo" />
         </div>
         </>
     );
