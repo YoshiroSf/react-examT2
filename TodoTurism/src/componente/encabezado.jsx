@@ -10,4 +10,4 @@ function header({imagen}){
     );
 }
 
-export default header
+export default header;
