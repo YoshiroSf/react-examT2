@@ -4,8 +4,8 @@ import header from "./componente/encabezado"
 
 function app(){
   return <Mensaje />
-  return <header
-  imagen=""/>
+  return <header 
+  />
 }
 
 export default app;
