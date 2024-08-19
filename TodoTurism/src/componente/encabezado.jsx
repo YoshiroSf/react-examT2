@@ -10,4 +10,4 @@ function cabeza({imagen}){
     );
 }
 
-export default header;
+export default cabeza;
