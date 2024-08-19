@@ -7,7 +7,7 @@ function header({imagen, nombre}){
             <img src={imagen} alt={nombre} />
         </div>
         </>
-    )
+    );
 }
 
 export default header
