@@ -4,7 +4,8 @@ import cabeza from "./componente/encabezado";
 
 function app(){
   return <Mensaje />
-  return <cabeza />
+  return <cabeza
+  imagen />
 }
 
 export default app;
