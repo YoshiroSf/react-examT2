@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import Mensaje from "./componente/mensaje";
 import header from "./componente/encabezado"
 
