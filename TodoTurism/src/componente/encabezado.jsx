@@ -5,7 +5,7 @@ function header(){
         <>
          <header>
             <div class="logo-container">
-                <img src="" alt="" />
+                <img src=".assets/logo1.png" alt="" />
             </div>
          </header>
         </>
