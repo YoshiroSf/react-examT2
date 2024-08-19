@@ -1,9 +1,14 @@
 import { Fragment } from "react";
 import cabeza from "./componente/encabezado";
+import Mensaje from "./componente/mensaje";
 
 function app(){
-  return <Mensaje />
-  return <cabeza imagen="https://humanidades.com/wp-content/uploads/2017/03/ciudad-3-e1565900111723.jpg"/>
+  return (
+    <>
+    <Mensaje />
+    <cabeza />
+    </>
+  )
 }
 
 export default app;
