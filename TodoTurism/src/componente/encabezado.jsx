@@ -4,7 +4,7 @@ function header(){
     return(
         <>
             <div class="logo-container">
-                <img src=".assets/logo1.png" alt="" />
+                <img src="" alt="" />
             </div>
         </>
     )
