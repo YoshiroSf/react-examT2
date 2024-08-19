@@ -1,6 +1,6 @@
 import { Fragment } from "react"
 
-function header({imagen}){
+function cabeza({imagen}){
     return(
         <>
         <div className="Logo">
