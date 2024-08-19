@@ -1,4 +1,4 @@
-import {  } from "/";
+import Mensaje from "./componente/mensaje";
 
 function app(){
   return <Mensaje />
